@@ -36,6 +36,14 @@ Mô hình được đánh giá bằng các metric tiêu chuẩn:
 | **SSIM**   | 0.4235  | 
 | **LPIPS**  | 0.3160  | 
 
+<img width="1460" height="500" alt="image" src="https://github.com/user-attachments/assets/4696adec-0d16-4d9c-abb9-664b6de00ba8" />
+<img width="1459" height="505" alt="image" src="https://github.com/user-attachments/assets/c90faa8d-73e0-472e-b5c2-2ed51c7cab98" />
+<img width="1452" height="503" alt="image" src="https://github.com/user-attachments/assets/588e5f9b-a262-48a5-bea5-cc6871d1a291" />
+<img width="1449" height="499" alt="image" src="https://github.com/user-attachments/assets/7db265f1-1d2c-4ecf-ab74-6e48938a8f83" />
+<img width="1459" height="506" alt="image" src="https://github.com/user-attachments/assets/2a977d3a-76e6-4461-b16d-5c3cc0bc5186" />
 
-<img width="1162" height="6390" alt="tải xuống (1)" src="https://github.com/user-attachments/assets/4df48cf7-73d0-4ac9-bc0b-6764ade9c5fe" />
+
+
+
+
 
