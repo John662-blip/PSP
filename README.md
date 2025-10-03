@@ -35,7 +35,7 @@ Mô hình được đánh giá bằng các metric tiêu chuẩn:
 | **FID**    | 51.2085 | 
 | **SSIM**   | 0.4235  | 
 | **LPIPS**  | 0.3160  | 
-
+## 5. Ảnh minh họa
 <img width="1460" height="500" alt="image" src="https://github.com/user-attachments/assets/4696adec-0d16-4d9c-abb9-664b6de00ba8" />
 <img width="1459" height="505" alt="image" src="https://github.com/user-attachments/assets/c90faa8d-73e0-472e-b5c2-2ed51c7cab98" />
 <img width="1452" height="503" alt="image" src="https://github.com/user-attachments/assets/588e5f9b-a262-48a5-bea5-cc6871d1a291" />
