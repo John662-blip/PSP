@@ -1,4 +1,4 @@
-# PSP: Person Sketch-to-Photo Synthesis
+# PSP(pixel2style2pixel): Person Sketch-to-Photo Synthesis
 
 ## 1. Giới thiệu
 
