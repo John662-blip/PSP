@@ -1,0 +1,4 @@
+*.pth
+*.pkl
+generated_images/
+stylegan2-ada-pytorch/
